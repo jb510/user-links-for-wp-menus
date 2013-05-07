@@ -3,7 +3,7 @@ Contributors: jb510
 Tags: users, authors, menus
 Requires at least: 3.5
 Tested up to: 3.5.1
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,21 +29,21 @@ Does the user you added actually have posts assigned to them?  If they don't yet
 
 = Can I restrict the users listed to a particular user role? =
 
-No, currently this plugin has no options and it shows ALL users regardless of role.
+No, currently this plugin has no options and it shows user of the roles: super admin, administrator, editor, author & contributor.  It does not list subscribers.
 
 = Will options be added? =
 
-Maybe. I will at least restrict it to non-subscribers in a future version.
-
-= When I select multiple users and try to add them to the menu only one gets added, what's going on? =
-
-I know. This will be fixed before Version 1.0
+Maybe. Let me know what you want.
 
 == Screenshots ==
 
-No screen shots
+1. This is what it looks like
 
 == Changelog ==
+
+= 0.2 =
+Restricted user query to 'super admin','administrator','editor','author' & 'contributor'.  No longer includes subscribers.
+Fixed adding multiple users to the menu at once.
 
 = 0.1 =
 * Initial release.  Rough but functional.  Known issues: Only one user link at a time gets added to the menus even if multiple are selected.
