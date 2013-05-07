@@ -42,4 +42,4 @@ No screen shots
 == Changelog ==
 
 = 0.1 =
-* Initial release.  Rough but functional.  Known issues: Only one user link at a time gets added to the menus even if multiple are selected.git svn clone -r697143:HEAD -s --no-minimize-url http://plugins.svn.wordpress.org/my-cool-plugin
+* Initial release.  Rough but functional.  Known issues: Only one user link at a time gets added to the menus even if multiple are selected.
