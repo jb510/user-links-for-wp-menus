@@ -23,6 +23,10 @@ Install like all other plugins.  This plugin has no options or settings.  Once a
 
 Check that the metabox is turned on under Screen Options.  http://codex.wordpress.org/Administration_Screens#Screen_Options
 
+= The link gets added but when I click it I get a 404? =
+
+Does the user you added actually have posts assigned to them?  If they don't yet they don't have an author archive page in WordPress.  I'm currently thinking about what to do for these scenarios, let me know what you think? 
+
 = Can I restrict the users listed to a particular user role? =
 
 No, currently this plugin has no options and it shows ALL users regardless of role.
